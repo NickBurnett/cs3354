@@ -3,3 +3,4 @@
 ## Contributors
 
 - Nicolas A. Burnett
+- Leon Lam
