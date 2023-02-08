@@ -3,5 +3,6 @@
 ## Contributors
 
 - Nicolas A. Burnett
+- Leon Lam
 - Jonathan E. Kopuri
 - Samuel Gutierrez
