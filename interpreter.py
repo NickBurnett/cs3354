@@ -1,6 +1,6 @@
 from interpreter.parser import VariableStore as Store
 
-# Util
+## Util
 def precedence(key):
   if key in ["+", "-"]:
     return 0

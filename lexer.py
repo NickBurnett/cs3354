@@ -15,7 +15,7 @@ KEYWORDS = [
   "shift",
   "exit",
 ]
-
+#
 class OutputType:
   TOKEN_ID: str = "ID"
   TOKEN_KEYWORD: str = "KEYWORD"
