@@ -4,3 +4,4 @@
 
 - Nicolas A. Burnett
 - Jonathan E. Kopuri
+- Ryan N. DiSanti
