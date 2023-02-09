@@ -1,0 +1,9 @@
+sum = 0;
+if sum == 0
+then
+num = 0;
+i = 0;
+else
+j = 0;
+end;
+sum = sum + 1;
