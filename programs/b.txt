@@ -1,0 +1,4 @@
+println "hello, world!";
+x = -3;
+my_var = x + 39 + (4 * 2);
+println my_var;

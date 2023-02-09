@@ -1,0 +1,8 @@
+x = 110;
+if x > 10
+then
+  print x;
+else
+  print "not 10";
+end;
+exit 0;
